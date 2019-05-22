@@ -23,7 +23,7 @@
   * [payment]()
   * [shipment]()
     
-## [non-functional](https://github.com/tegcommerce/tegcommerce-requisite/blob/master/requisite-non-functional.md)
+### non-functional
 
 * [usability, experience and efficiency](https://github.com/tegcommerce/tegcommerce-requisite/blob/master/usability-experience-efficiency.md)
   * [pwa](https://github.com/tegcommerce/tegcommerce-requisite/blob/master/pwa.md)
