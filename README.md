@@ -22,7 +22,10 @@
 * [cart]()
   * [payment]()
   * [shipment]()
-    
+  * 
+  * 
+  * 
+  
 ### non-functional
 
 * [usability, experience and efficiency](https://github.com/tegcommerce/tegcommerce-requisite/blob/master/usability-experience-efficiency.md)
