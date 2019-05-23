@@ -1,5 +1,5 @@
 ### language
 
-* [en](https://github.com/tegcommerce/tegcommerce-requisite/blob/master/en.md)
+* [en](https://en.wikipedia.org/wiki/English_language)
 
-* [pt-br](https://github.com/tegcommerce/tegcommerce-requisite/blob/master/pt-br.md)
+* [pt-br](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_brasileiro)
