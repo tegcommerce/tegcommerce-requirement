@@ -7,7 +7,7 @@
 
 ### functional
 
-* [access](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/access.md)
+* [login](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/login.md)
 
 * [register](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/register.md)
 
