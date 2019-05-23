@@ -1,15 +1,24 @@
 ### product
-[user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/user.md) should see the product
-[user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/user.md) should see the product title
-[user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/user.md) should see the price of the product
-[user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/user.md) should see product comments
-[user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/user.md) should see product likes
-[user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/user.md) should see product shares
 
-[user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/user.md) 
+* user should see the product
+* user should see the product title
+* user should see the price of the product
+* user should see product comments
+* user should see product likes
+* user should see product shares
+* user should see product description
 
-### information needed to register
-* 
+* user should search product
+* user should register product
+* user should delete product
+* user should share product
+* user should like product
+* user should comment product
+* user should describe product
 
-### register screen
-<img src="">
+
+#### user should buy product
+  * cart
+  * payment
+  * shipment
+
