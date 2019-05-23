@@ -1,24 +1,34 @@
-### product
+### all features
 
-* user should see the product
-* user should see the product title
-* user should see the price of the product
-* user should see product comments
-* user should see product likes
-* user should see product shares
-* user should see product description
+* should search product
 
-* user should search product
-* user should register product
-* user should delete product
-* user should share product
-* user should like product
-* user should comment product
-* user should describe product
+* should see product
+  * product title
+  * product description
+  * product price
+  * product comments
+  * product likes
+  * product shares
 
+* should add/delete product
+  * add/change/delete product title
+  * add/change/delete product description
+  * add/change/delete product price
+ 
+* should interact with the product
+  * add/change/delete product comments
+  * add/delete product likes
+  * share product
 
-#### user should buy product
-  * cart
-  * payment
-  * shipment
+-
 
+#### unregistered user
+
+#### registered user
+
+* should buy product
+  * [cart]()
+  * [payment]()
+  * [shipment]()
+
+#### registered user admin
