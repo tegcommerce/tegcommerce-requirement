@@ -43,6 +43,6 @@
 
 * [language](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/language.md)
 
-* [typography](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/typography.md)
+* [text](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/text.md)
 
 * [legal](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/legal.md)
