@@ -19,16 +19,17 @@
   * [add/change/delete product comments]()
   * [add/delete product likes]()
   * [share product]()
-
+  * [add to cart]()
+  * [buy product]()
+    * [set payment method]()
+    * [set shipment method]()
+  
 -
+
+### features by user type
 
 #### unregistered user
 
 #### registered user
-
-* [should buy product]
-  * [cart]()
-  * [payment]()
-  * [shipment]()
 
 #### registered user admin
