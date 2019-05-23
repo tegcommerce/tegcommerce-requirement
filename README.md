@@ -7,21 +7,23 @@
 
 ### functional
 
-* [access]()
+* [access](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/access.md)
 
-* [register]()
+* [register](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/register.md)
 
-* [recover password]()
+* [recover password](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/recover-password.md)
 
-* [product catalog]()
+* [product catalog](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/product-catalog.md)
 
-* [product]()
+* [product](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/product.md)
 
-* [cart]()
+* [cart](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/cart.md)
 
-* [payment]()
+* [payment](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/payment.md)
 
-* [shipment]()
+* [shipment](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/shipment.md)
+
+* [chat](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/chat.md)
    
 ### non-functional
 
@@ -31,13 +33,11 @@
   
 * [security](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/security.md)
 
-* [side](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/side)
+* [side](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/side.md)
 
-* [theme]()
+* [theme](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/theme.md)
 
-* [theme](https://github.com/tegcommerce/tegcommerce-requisite/blob/master/theme.md)
-
-* [plugin](https://github.com/tegcommerce/tegcommerce-requisite/blob/master/plugin.md)
+* [plugin](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/plugin.md)
   
 * [color](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/color.md)
 
