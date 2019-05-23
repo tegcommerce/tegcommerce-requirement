@@ -23,8 +23,6 @@
   * [buy product]()
     * [set payment method]()
     * [set shipment method]()
-  
--
 
 ### features by user type
 
