@@ -2,23 +2,11 @@
 
 ### functional
 
-* [login](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/login.md)
-
-* [register](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/register.md)
-
-* [recover password](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/recover-password.md)
-
-* [product catalog](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/product-catalog.md)
+* [access](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/access.md)
 
 * [product](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/product.md)
 
-* [search](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/search.md)
-
-* [cart](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/cart.md)
-
-* [payment](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/payment.md)
-
-* [shipment](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/shipment.md)
+* [product catalog](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/product-catalog.md)
 
 * [chat](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/chat.md)
    
