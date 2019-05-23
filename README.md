@@ -17,6 +17,8 @@
 
 * [product](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/product.md)
 
+* [search](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/search.md)
+
 * [cart](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/cart.md)
 
 * [payment](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/payment.md)
