@@ -72,7 +72,7 @@ should acess configuration section
     * user must fill out
   * state
     * user must fill out
-  * postcode / ZIP
+  * postcode/zip
     * user must fill out
   * what currency do you accept payments in?
     * user should select the alternative
@@ -110,4 +110,18 @@ should access shipment section
 
 ### user section
 should access user section
+* should add/change/delete user
+  * should add/change/delete profile picture
+  * should add/change/delete first name
+  * should add/change/delete last name
+  * should add/change/delete email
+  * should add/change/delete user name
+  * should add/change/delete password
+  * should add/change/delete nationality
+  * should add/change/delete address
+  * should add/change/delete city
+  * should add/change/delete state
+  * should add/change/delete postcode/zip
+  * should add/change/delete permission
+    * 
  
