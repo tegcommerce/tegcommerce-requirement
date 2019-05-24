@@ -8,7 +8,7 @@
 
 * [product catalog](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/product-catalog.md)
 
-* [dashboard]()
+* [dashboard](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/dashboard.md)
 
 * [storefront]()
    
