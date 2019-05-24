@@ -17,10 +17,11 @@
 │       └── product
 │
 ├── body                      
-│   └── product               
-│       ├── share
-│       ├── like
-│       └── comment
+│   └── catalog   
+│       └── product               
+│           ├── share
+│           ├── like
+│           └── comment
 │
 └── footer                    
     ├── about            
