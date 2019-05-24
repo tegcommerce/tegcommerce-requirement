@@ -5,6 +5,11 @@ should access storefront section
 
 #### catalog section
 should access catalog section
+* should product access
+* should add/change/delete product
+  * should add/change/delete product title
+  * should add/change/delete product description
+  * should add/change/delete product price
 
 #### page section
 should access page section
