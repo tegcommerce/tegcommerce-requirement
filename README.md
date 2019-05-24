@@ -8,7 +8,7 @@
 
 * [dashboard](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/dashboard.md)
 
-* [storefront]()
+* [storefront](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/storefront.md)
    
 ### non-functional
 
