@@ -1,5 +1,5 @@
 ### register
-[user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/user.md) should register
+user should register
 
 ### information needed to register
 * name and surname
