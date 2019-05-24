@@ -2,12 +2,12 @@
 
 #### unregistered user
 
-* should see product catalog
+* should see [product catalog](https://user-images.githubusercontent.com/42984807/58356366-abb72980-7e4d-11e9-8ac3-14537370fb1d.png)
 
 * should search product
   * should select category
 
-* should see product
+* should see [product](https://user-images.githubusercontent.com/42984807/58356367-abb72980-7e4d-11e9-972c-c748b31cb90c.png)
   * should see product title
   * should see product description
   * should see product price
