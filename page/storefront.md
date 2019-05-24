@@ -2,7 +2,7 @@
 
 #### unregistered user
 
-* should se product catalog
+* should see product catalog
 
 * should search product
   * should select category
@@ -24,7 +24,7 @@
 
 #### registered user
 
-* should se product catalog
+* should see product catalog
 
 * should search product
   * should select category
@@ -54,7 +54,7 @@
 
 * should access sidebar              
   
-* should se product catalog
+* should see product catalog
 
 * should search product
   * should select category
