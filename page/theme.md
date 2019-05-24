@@ -50,7 +50,7 @@
 ├── header                    
 │   ├── sidebar                
 │   │   ├── storefront section
-│   │   ├── product section
+│   │   ├── catalog section
 │   │   ├── page section
 │   │   ├── plugin section
 │   │   ├── theme section
