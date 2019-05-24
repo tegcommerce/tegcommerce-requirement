@@ -3,6 +3,8 @@
 - [login](#login)
 
 - [register](#register)
+  - [register user](#register-user)
+  - [register user admin](#register-user-admin)
 
 - [recover password](#recover-password)
 
@@ -29,7 +31,48 @@ user should register
 
 ### [user registration screen example](https://user-images.githubusercontent.com/42984807/58274724-d465f300-7d69-11e9-973d-5b566d0cdd4c.png)
 
-* [register user admin](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/register-user-admin.md)
+### register user admin
+user admin should register
+
+### information needed to register user admin
+* admin configuration
+  * nationality
+    * user should select the alternative
+  * first name
+    * user must fill out
+  * last name
+    * user must fill out
+  * profile picture
+    * user should upload
+  * admin email
+    * user must fill out
+  * admin user
+    * user must fill out
+  * admin password
+    * user must fill out
+* store configuration
+  * store name
+    * user must fill out
+  * store logo
+    * user should upload
+  * where is your store based?
+    * user should select the alternative
+  * store language
+    * user should select the alternative
+  * address
+    * user must fill out
+  * city
+    * user must fill out
+  * state
+    * user must fill out
+  * postcode / ZIP
+    * user must fill out
+  * what currency do you accept payments in?
+    * user should select the alternative
+  * payment method
+    * select the payment method
+  * shipping company
+    * select the shipping company
 
 ## recover password
 
