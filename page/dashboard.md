@@ -1,12 +1,4 @@
 ### dashboard
-- [storefront section](#storefront-section)
-- [product section](#product-section)
-- [catalog section](#catalog-section)
-- [plugin section](#plugin-section)
-- [theme section](#theme-section)
-- [payment section](#payment-section)
-- [shipment section](#shipment-section)
-- [user section](#user-section)
 
 #### storefront section
 should access storefront section
