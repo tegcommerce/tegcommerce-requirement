@@ -1,6 +1,6 @@
 ### dashboard
 - [storefront section](#storefront-section)
-- [configuration](#configuration)
+- [configuration section](#configuration-section)
 - [catalog section](#catalog-section)
 - [page section](#page-section)
 - [plugin section](#plugin-section)
