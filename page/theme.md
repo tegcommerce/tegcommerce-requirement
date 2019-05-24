@@ -11,14 +11,13 @@
 │       └── category                     
 │
 ├── body                      
-│   └── product               
-│
-└── share                     
+│   └── catalog   
+│       └── product               
+│           └── share             
+│                     
 └── footer                    
-         ├── about            
-         ├── privacy          
-         ├── user             
-         └── social networks  
+    ├── privacy policy          
+    └── terms of use     
 ```
 
 ##### registered user
@@ -32,18 +31,16 @@
 │       └── product
 │
 ├── body                      
-│   └── product               
-│       ├── share
-│       ├── like
-│       ├── comment
-│       └── buy
-│
-├── share                     
+│   └── catalog   
+│       └── product               
+│           ├── share
+│           ├── like
+│           ├── comment
+│           └── buy
+│                     
 └── footer                    
-    ├── about            
-    ├── privacy          
-    ├── user             
-    └── social networks  
+    ├── privacy policy          
+    └── terms of use     
 ```
 
 ##### registered user admin
@@ -72,10 +69,8 @@
 │           └── comment
 │
 └── footer                    
-    ├── about            
-    ├── privacy          
-    ├── user             
-    └── social networks  
+    ├── privacy policy          
+    └── terms of use             
 ```
   
 #### child theme
