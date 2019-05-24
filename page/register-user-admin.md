@@ -1,6 +1,6 @@
 # registration form to configure admin and store
 
-## admin setup
+## admin configuration
 
 nationality
 user should select the alternative
@@ -23,7 +23,7 @@ user must fill out
 admin password
 user must fill out
 
-## store setup
+## store configuration
 
 store name
 user must fill out
