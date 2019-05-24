@@ -7,7 +7,7 @@
 3. [recover password](#recover-password)
 
 
-1. login
+#### 1. login
 user should login
 
 ##### information needed to login
@@ -17,13 +17,13 @@ user should login
 ##### login screen
 <img src="https://user-images.githubusercontent.com/42984807/58274708-cb752180-7d69-11e9-9a48-ca0af9f56de0.png">
 
-#### register
+#### 2. register
 
 * [register user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/register-user.md)
 
 * [register user admin](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/register-user-admin.md)
 
-#### recover password
+#### 3. recover password
 
 * user should recover password
   * user should inform registered email
