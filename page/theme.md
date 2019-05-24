@@ -1,5 +1,81 @@
 ### theme
 
-* [default theme](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/default-theme.md)
+#### default theme
+
+##### unregistered user
+
+```
+.
+├── header                    
+│   └── search                
+│       └── category                     
+│
+├── body                      
+│   └── product               
+│
+└── share                     
+└── footer                    
+         ├── about            
+         ├── privacy          
+         ├── user             
+         └── social networks  
+```
+
+##### registered user
+
+```
+.
+├── header                    
+│   ├── search                
+│   │   └── category                     
+│   └── cart
+│       └── product
+│
+├── body                      
+│   └── product               
+│       ├── share
+│       ├── like
+│       ├── comment
+│       └── buy
+│
+├── share                     
+└── footer                    
+    ├── about            
+    ├── privacy          
+    ├── user             
+    └── social networks  
+```
+
+##### registered user admin
   
-* [child theme](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/child-theme.md)
+```
+.
+├── header                    
+│   ├── sidebar                
+│   │   ├── storefront section
+│   │   ├── product section
+│   │   ├── page section
+│   │   ├── plugin section
+│   │   ├── theme section
+│   │   └── user section
+│   │
+│   ├── search                
+│   │   └── category                     
+│   └── cart
+│       └── product
+│
+├── body                      
+│   └── catalog   
+│       └── product               
+│           ├── share
+│           ├── like
+│           └── comment
+│
+└── footer                    
+    ├── about            
+    ├── privacy          
+    ├── user             
+    └── social networks  
+```
+  
+#### child theme
