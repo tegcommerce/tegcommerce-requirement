@@ -1,7 +1,14 @@
 ### access
 
-* [login](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/login.md)
+* [login](#login)
 
-* [register](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/register.md)
+* [register](#register)
 
-* [recover password](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/recover-password.md)
+* [recover password](#recover-password)
+
+
+#### login
+
+#### register
+
+#### recover password
