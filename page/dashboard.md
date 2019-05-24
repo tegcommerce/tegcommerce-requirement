@@ -3,11 +3,11 @@
 #### storefront section
 should access storefront section
 
-#### product section
-should access product section
-
 #### catalog section
 should access catalog section
+
+#### page section
+should access page section
 
 #### plugin section
 should access plugin section
