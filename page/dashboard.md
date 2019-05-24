@@ -1,4 +1,4 @@
-### dashboard
+## dashboard
 - [storefront section](#storefront-section)
 - [configuration section](#configuration-section)
 - [catalog section](#catalog-section)
@@ -9,7 +9,7 @@
 - [shipment section](#shipment-section)
 - [user section](#user-section)
 
-#### storefront section
+### storefront section
 should access storefront section
   * should access sidebar              
   
@@ -40,7 +40,7 @@ should access storefront section
 
   * should see terms of use        
 
-#### configuration section
+### configuration section
 should acess configuration section
 * admin configuration
   * nationality
@@ -81,7 +81,7 @@ should acess configuration section
   * shipping company
     * select the shipping company
 
-#### catalog section
+### catalog section
 should access catalog section
 * should product access
 * should add/change/delete product
@@ -89,23 +89,23 @@ should access catalog section
   * should add/change/delete product description
   * should add/change/delete product price
 
-#### page section
+### page section
 should access page section
 * should add privacy policy page
 * should add terms of use page
 
-#### plugin section
+### plugin section
 should access plugin section
 
-#### theme section
+### theme section
 should access theme section
 
-#### payment section
+### payment section
 should access payment section
 
-#### shipment section
+### shipment section
 should access shipment section
 
-#### user section
+### user section
 should access user section
  
