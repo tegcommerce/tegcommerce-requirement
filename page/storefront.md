@@ -8,15 +8,15 @@
   * should select category
 
 * should see product
-  * product title
-  * product description
-  * product price
-  * product comments
-  * product likes
-  * product shares
+  * should see product title
+  * should see product description
+  * should see product price
+  * should see product comments
+  * should see product likes
+  * should see product shares
  
 * should interact with the product
-  * share product
+  * should share product
 
 * should see privacy policy        
 
@@ -30,21 +30,21 @@
   * should select category
 
 * should see product
-  * product title
-  * product description
-  * product price
-  * product comments
-  * product likes
-  * product shares
+  * should see product title
+  * should see product description
+  * should see product price
+  * should see product comments
+  * should see product likes
+  * should see product shares
 
 * should interact with the product
-  * add/change/delete product comments
-  * add/delete product likes
-  * share product
-  * add to cart
-  * buy product
-    * select payment method
-    * select shipment method
+  * should add/change/delete product comments
+  * should add/delete product likes
+  * should share product
+  * should add to cart
+  * should buy product
+    * should select payment method
+    * should select shipment method
                 
 * should see privacy policy        
 
@@ -60,22 +60,22 @@
   * should select category
 
 * should see product
-  * product title
-  * product description
-  * product price
-  * product comments
-  * product likes
-  * product shares
+  * should see product title
+  * should see product description
+  * should see product price
+  * should see product comments
+  * should see product likes
+  * should see product shares
 
 * should add/delete product
-  * add/change/delete product title
-  * add/change/delete product description
-  * add/change/delete product price
+  * should add/change/delete product title
+  * should add/change/delete product description
+  * should add/change/delete product price
  
 * should interact with the product
-  * add/change/delete product comments
-  * add/delete product likes
-  * share product
+  * should add/change/delete product comments
+  * should add/delete product likes
+  * should share product
   
 * should see privacy policy        
 
