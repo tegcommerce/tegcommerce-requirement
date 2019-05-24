@@ -7,8 +7,6 @@
 * [product](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/product.md)
 
 * [product catalog](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/product-catalog.md)
-
-* [chat](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/chat.md)
    
 ### non-functional
 
