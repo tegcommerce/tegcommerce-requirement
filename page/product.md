@@ -1,6 +1,7 @@
 ### all product-related features
 
 * should search product
+  * should select category
 
 * should see product
   * product title
@@ -21,14 +22,15 @@
   * share product
   * add to cart
   * buy product
-    * set payment method
-    * set shipment method
+    * select payment method
+    * select shipment method
 
 ### product-related features by user type
 
 #### unregistered user
 
 * should search product
+  * should select category
 
 * should see product
   * product title
@@ -59,12 +61,13 @@
   * share product
   * add to cart
   * buy product
-    * set payment method
-    * set shipment method
+    * select payment method
+    * select shipment method
     
 #### registered user admin
 
 * should search product
+  * should select category
 
 * should see product
   * product title
