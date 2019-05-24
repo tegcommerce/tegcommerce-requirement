@@ -1,7 +1,7 @@
 ### text
 
-* [font](https://en.wikipedia.org/wiki/Font)
+* font
   * [ubuntu font](https://en.wikipedia.org/wiki/Ubuntu_(typeface))
 
-* [letter case](https://en.wikipedia.org/wiki/Letter_case)
+* letter case
   * [lowercase](https://en.wikipedia.org/wiki/Letter_case)
