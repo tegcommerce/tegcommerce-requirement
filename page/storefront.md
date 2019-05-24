@@ -1,9 +1,8 @@
 ### storefront
 
 #### unregistered user
-search                
-category                     
-body                      
+search           
+category                                           
 catalog   
 product               
 share             
@@ -25,23 +24,23 @@ privacy policy
 terms of use     
 
 #### registered user admin
--sidebar              
-storefront section
-catalog section
-page section
-plugin section
-theme section
-payment section
-shipment section
-user section
-search                
-category                     
-cart
-product
-catalog   
-product               
-share product
-like product
-comment product
-pricacy policy        
-terms of use             
+- sidebar              
+  - storefront section
+  - catalog section
+  - page section
+  - plugin section
+  - theme section
+  - payment section
+  - shipment section
+  - user section
+- search                
+- category                     
+- cart
+- product
+- catalog   
+- product               
+- share product
+- like product
+- comment product
+- pricacy policy        
+- terms of use             
