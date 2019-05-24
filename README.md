@@ -1,4 +1,4 @@
-# tegcommerce requirement ⚙
+# tegcommerce requirement 🧠
  
 ### functional
 
