@@ -2,7 +2,7 @@
 
 #### default theme
 
-##### unregistered user
+##### for unregistered user
 
 ```
 .
@@ -20,7 +20,7 @@
     └── terms of use     
 ```
 
-##### registered user
+##### for registered user
 
 ```
 .
@@ -43,13 +43,14 @@
     └── terms of use     
 ```
 
-##### registered user admin
+##### for registered user admin
   
 ```
 .
 ├── header                    
 │   ├── sidebar                
 │   │   ├── storefront section
+│   │   ├── configuration section
 │   │   ├── catalog section
 │   │   ├── page section
 │   │   ├── plugin section
