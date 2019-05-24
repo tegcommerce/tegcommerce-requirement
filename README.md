@@ -1,5 +1,5 @@
 # tegcommerce requirement ⚙
-
+ 
 ### functional
 
 * [access](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/access.md)
