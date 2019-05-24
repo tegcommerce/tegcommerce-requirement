@@ -91,8 +91,10 @@ should access catalog section
 
 ### page section
 should access page section
-* should add privacy policy page
-* should add terms of use page
+* should add/change/delete page
+  * should change/delete privacy policy page
+  * should change/delete terms of use page
+  * should add/change/delete other pages
 
 ### plugin section
 should access plugin section
