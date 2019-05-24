@@ -1,6 +1,6 @@
 ### side
 
-#### server-side-backend
+#### backend or server-side
 
 * programming language
   * javascript
@@ -8,7 +8,7 @@
 * framework
   * nodejs
 
-#### client-side-frontend
+#### frontend or client-side
 
 * programming language
   * html
