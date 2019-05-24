@@ -12,8 +12,6 @@
    
 ### non-functional
 
-* [user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/user.md)
-
 * [usability, experience and efficiency](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/usability-experience-efficiency.md)
   
 * [security](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/security.md)
