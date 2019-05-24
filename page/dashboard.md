@@ -11,6 +11,34 @@
 
 #### storefront section
 should access storefront section
+  * should access sidebar              
+  
+  * should see product catalog
+
+  * should search product
+    * should select category
+
+  * should see product
+    * should see product title
+    * should see product description
+    * should see product price
+    * should see product comments
+    * should see product likes
+    * should see product shares
+
+  * should add/delete product
+    * should add/change/delete product title
+    * should add/change/delete product description
+    * should add/change/delete product price
+
+  * should interact with the product
+    * should add/change/delete product comments
+    * should add/delete product likes
+    * should share product
+
+  * should see privacy policy        
+
+  * should see terms of use        
 
 #### configuration section
 should acess configuration section
