@@ -18,7 +18,16 @@ user should login
 
 ### register
 
-* [register user](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/register-user.md)
+#### register user
+user should register
+
+#### information needed to register user
+* name and surname
+* user name
+* email
+* password
+
+#### [user registration screen example](https://user-images.githubusercontent.com/42984807/58274724-d465f300-7d69-11e9-973d-5b566d0cdd4c.png)
 
 * [register user admin](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/register-user-admin.md)
 
