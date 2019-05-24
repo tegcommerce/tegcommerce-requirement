@@ -4,8 +4,6 @@
 
 * [access](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/access.md)
 
-* [product](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/product.md)
-
 * [dashboard](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/dashboard.md)
 
 * [storefront](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/storefront.md)
