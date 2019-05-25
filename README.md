@@ -45,17 +45,11 @@
   * like
   * share
 
-### user diagram
-* [document]()
-
-### class diagram
-* [document]()
-
-### use case diagram
-* [document]()
-
-### entity relationship diagram
-* [document]()
+### diagram
+* [user diagram]() 
+* [class diagram]()
+* [use case diagram]()
+* [entity relationship diagram]()
 
 ### functional
 
