@@ -48,16 +48,16 @@
 ### diagram
 * user diagram
   * [definitive]()
-  * [edit]()
+  * [edit](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=diagrama4.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftegcommerce%2Ftegcommerce-requirement%2Fmaster%2Fdiagrama4.xml)
 * class diagram
   * [definitive]()
-  * [edit]()
+  * [edit](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=diagrama4.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftegcommerce%2Ftegcommerce-requirement%2Fmaster%2Fdiagrama4.xml)
 * use case diagram
   * [definitive]()
-  * [edit]()
+  * [edit](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=diagrama4.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftegcommerce%2Ftegcommerce-requirement%2Fmaster%2Fdiagrama4.xml)
 * entity relationship diagram
   * [definitive]()
-  * [edit]()
+  * [edit](https://www.draw.io/?lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=diagrama4.xml#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Ftegcommerce%2Ftegcommerce-requirement%2Fmaster%2Fdiagrama4.xml)
   
 ### functional
 
