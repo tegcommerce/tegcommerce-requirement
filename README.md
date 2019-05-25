@@ -2,7 +2,7 @@
 
 ### data model
 
-* registered user
+* user
   * first name
   * last name
   * username
@@ -41,9 +41,9 @@
   * title
   * description
   * price
-  * comments
-  * likes
-  * shares
+  * comment
+  * like
+  * share
 
 ### functional
 
