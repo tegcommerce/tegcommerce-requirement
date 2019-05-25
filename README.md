@@ -1,5 +1,50 @@
 # tegcommerce requirement 🧠
- 
+
+### data model
+
+* registered user
+  * first name
+  * last name
+  * username
+  * email
+  * password
+
+* admin user
+  * nationality
+  * first name
+  * last name
+  * profile picture
+  * admin username
+  * admin email
+  * admin password
+
+* store
+  * store name
+  * store logo
+  * store language
+  * address
+  * city
+  * state
+  * postcode/zip
+  * currency for payment
+  * payment method
+  * shipping company
+
+* product catalog
+  * title
+  * price
+  * comment
+  * like
+  * share
+
+* product
+  * title
+  * description
+  * price
+  * comments
+  * likes
+  * shares
+
 ### functional
 
 * [access](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/access.md)
