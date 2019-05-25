@@ -46,10 +46,10 @@
   * share
 
 ### diagram
-* [user diagram]() 
-* [class diagram]()
-* [use case diagram]()
-* [entity relationship diagram]()
+* [user diagram]() with [draw app](https://www.draw.io)
+* [class diagram]() with [draw app](https://www.draw.io)
+* [use case diagram]() with [draw app](https://www.draw.io)
+* [entity relationship diagram]() with [draw app](https://www.draw.io)
 
 ### functional
 
