@@ -46,11 +46,19 @@
   * share
 
 ### diagram
-* [user diagram]() with [draw app](https://www.draw.io)
-* [class diagram]() with [draw app](https://www.draw.io)
-* [use case diagram]() with [draw app](https://www.draw.io)
-* [entity relationship diagram]() with [draw app](https://www.draw.io)
-
+* user diagram
+  * [definitive]()
+  * [edit]()
+* class diagram
+  * [definitive]()
+  * [edit]()
+* use case diagram
+  * [definitive]()
+  * [edit]()
+* entity relationship diagram
+  * [definitive]()
+  * [edit]()
+  
 ### functional
 
 * [access](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/access.md)
