@@ -26,11 +26,6 @@ should access storefront section
     * should see product likes
     * should see product shares
 
-  * should add/delete product
-    * should add/change/delete product title
-    * should add/change/delete product description
-    * should add/change/delete product price
-
   * should interact with the product
     * should add/change/delete product comments
     * should add/delete product likes
@@ -84,10 +79,10 @@ should acess configuration section
 ### catalog section
 should access catalog section
 * should product access
-* should add/change/delete product
-  * should add/change/delete product title
-  * should add/change/delete product description
-  * should add/change/delete product price
+  * should add/change/delete product
+    * should add/change/delete product title
+    * should add/change/delete product description
+    * should add/change/delete product price
 
 ### page section
 should access page section
@@ -123,5 +118,22 @@ should access user section
   * should add/change/delete state
   * should add/change/delete postcode/zip
   * should add/change/delete permission
-    * 
- 
+    * should access sidebar              
+      * storefront section
+      * configuration section
+      * catalog section
+        * should product access
+        * should add/change/delete product
+          * should add/change/delete product title
+          * should add/change/delete product description
+          * should add/change/delete product price
+      * page section
+      * plugin section
+      * theme section
+      * payment section
+      * shipment section
+      * user section
+    * should add/delete product
+      * should add/change/delete product title
+      * should add/change/delete product description
+      * should add/change/delete product price
