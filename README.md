@@ -1,6 +1,6 @@
 # tegcommerce requirement 🧠
 
-### data model
+### data
 
 * user
   * first name
@@ -44,6 +44,12 @@
   * comment
   * like
   * share
+
+### class diagram
+
+### use case diagram
+
+### user diagram
 
 ### functional
 
