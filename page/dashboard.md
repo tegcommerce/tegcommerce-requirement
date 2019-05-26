@@ -1,23 +1,23 @@
 ## dashboard
-- [storefront section](#storefront-section)
-- [configuration section](#configuration-section)
-- [catalog section](#catalog-section)
-- [page section](#page-section)
-- [plugin section](#plugin-section)
-- [theme section](#theme-section)
-- [payment section](#payment-section)
-- [shipment section](#shipment-section)
-- [user section](#user-section)
+- [storefront](#storefront)
+- [my account](#my-account)
+- [my store](#my-store)
+- [catalog](#catalog)
+- [sales](#sales)
+- [pages](#page)
+- [plugin](#plugin)
+- [theme](#theme)
+- [payment](#payment)
+- [shipment](#shipment)
+- [users](#users)
 
-### storefront section
-should access storefront section
+### storefront
+should access storefront
+
   * should access sidebar              
-  
   * should see product catalog
-
   * should search product
     * should select category
-
   * should see product
     * should see product title
     * should see product description
@@ -25,19 +25,16 @@ should access storefront section
     * should see product comments
     * should see product likes
     * should see product shares
-
   * should interact with the product
     * should add/change/delete product comments
     * should add/delete product likes
     * should share product
-
   * should see privacy policy        
-
   * should see terms of use        
 
-### configuration section
-should acess configuration section
-* admin configuration
+### my account
+should acess my account
+
   * nationality
     * user should select the alternative
   * first name
@@ -52,59 +49,65 @@ should acess configuration section
     * user must fill out
   * admin password
     * user must fill out
-* store configuration
-  * store name
-    * user must fill out
-  * store logo
-    * user should upload
-  * where is your store based?
-    * user should select the alternative
-  * store language
-    * user should select the alternative
-  * address
-    * user must fill out
-  * city
-    * user must fill out
-  * state
-    * user must fill out
-  * postcode/zip
-    * user must fill out
-  * what currency do you accept payments in?
-    * user should select the alternative
-  * payment method
-    * select the payment method
-  * shipping company
+
+### my store
+should acess my store
+
+* store name
+  * user must fill out
+* store logo
+  * user should upload
+* where is your store based?
+  * user should select the alternative
+* store language
+  * user should select the alternative
+* address
+  * user must fill out
+* city
+  * user must fill out
+* state
+  * user must fill out
+* postcode/zip
+  * user must fill out
+* what currency do you accept payments in?
+  * user should select the alternative
+* payment method
+  * select the payment method
+* shipping company
     * select the shipping company
 
-### catalog section
-should access catalog section
+### catalog
+should access catalog
+
 * should product access
   * should add/change/delete product
     * should add/change/delete product title
     * should add/change/delete product description
     * should add/change/delete product price
 
-### page section
-should access page section
+### pages
+should access pages
+
 * should add/change/delete page
   * should change/delete privacy policy page
   * should change/delete terms of use page
   * should add/change/delete other pages
 
-### plugin section
-should access plugin section
+### plugin
+should access plugin
 
-### theme section
-should access theme section
+### theme
+should access theme
 
-### payment section
-should access payment section
+### payment
+should access payment
 
-### shipment section
-should access shipment section
+### shipment
+should access shipment
 
-### user section
-should access user section
+### users
+should access users
+
 * should add/change/delete user
   * should add/change/delete profile picture
   * should add/change/delete first name
