@@ -2,13 +2,13 @@
 - [storefront](#storefront)
 - [my account](#my-account)
 - [my store](#my-store)
-- [catalog](#catalog)
+- [catalogs](#catalogs)
 - [sales](#sales)
-- [pages](#page)
-- [plugin](#plugin)
-- [theme](#theme)
-- [payment](#payment)
-- [shipment](#shipment)
+- [pages](#pages)
+- [plugins](#plugins)
+- [themes](#themes)
+- [payments](#payments)
+- [shipments](#shipments)
 - [users](#users)
 
 ### storefront
@@ -76,8 +76,8 @@ should acess my store
 * shipping company
     * select the shipping company
 
-### catalog
-should access catalog
+### catalogs
+should access catalogs
 
 * should product access
   * should add/change/delete product
@@ -93,17 +93,17 @@ should access pages
   * should change/delete terms of use page
   * should add/change/delete other pages
 
-### plugin
-should access plugin
+### plugins
+should access plugins
 
-### theme
-should access theme
+### themes
+should access themes
 
-### payment
-should access payment
+### payments
+should access payments
 
-### shipment
-should access shipment
+### shipments
+should access shipments
 
 ### users
 should access users
@@ -122,20 +122,22 @@ should access users
   * should add/change/delete postcode/zip
   * should add/change/delete permission
     * should access sidebar              
-      * storefront section
-      * configuration section
-      * catalog section
+      * storefront
+      * my account
+      * my store
+      * catalogs
         * should product access
         * should add/change/delete product
           * should add/change/delete product title
           * should add/change/delete product description
           * should add/change/delete product price
-      * page section
-      * plugin section
-      * theme section
-      * payment section
-      * shipment section
-      * user section
+      * sales
+      * pages
+      * plugins
+      * themes
+      * payments
+      * shipments
+      * users
     * should add/delete product
       * should add/change/delete product title
       * should add/change/delete product description
