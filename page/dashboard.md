@@ -5,8 +5,8 @@
 - [catalogs](#catalogs)
 - [sales](#sales)
 - [pages](#pages)
-- [plugins](#plugins)
 - [themes](#themes)
+- [plugins](#plugins)
 - [payments](#payments)
 - [shipments](#shipments)
 - [users](#users)
@@ -93,11 +93,11 @@ should access pages
   * should change/delete terms of use page
   * should add/change/delete other pages
 
-### plugins
-should access plugins
-
 ### themes
 should access themes
+
+### plugins
+should access plugins
 
 ### payments
 should access payments
