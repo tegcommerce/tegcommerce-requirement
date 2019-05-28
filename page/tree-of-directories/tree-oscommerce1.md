@@ -1,4 +1,9 @@
-oscommerce1
+# oscommerce1
+
+## structure of directories
+
+```
+.
 ├── osCommerce
 │   └── OM
 │       ├── Config
@@ -503,5 +508,6 @@ oscommerce1
     │               │       └── 16x16
     │               └── stylesheets
     └── upload
+```
 
 504 directories
