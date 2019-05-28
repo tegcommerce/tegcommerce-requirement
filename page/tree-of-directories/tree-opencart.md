@@ -1,4 +1,9 @@
-opencart
+# opencart
+
+## structure of directories
+
+```
+.
 └── upload
     ├── admin
     │   ├── controller
@@ -764,5 +769,6 @@ opencart
                     └── wechat-php-sdk
                         └── Wechat
                             └── Lib
+```
 
 765 directories
