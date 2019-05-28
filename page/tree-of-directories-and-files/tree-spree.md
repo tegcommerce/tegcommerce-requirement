@@ -1,4 +1,9 @@
-spree
+# spree
+
+## structure of directories and files
+
+```
+.
 ├── api
 │   ├── app
 │   │   ├── assets
@@ -2981,5 +2986,6 @@ spree
 │   └── spree_sample.gemspec
 ├── spree.gemspec
 └── spree_logo.png
+```
 
 554 directories, 2428 files
