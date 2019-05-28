@@ -1,4 +1,9 @@
-prestashop
+# prestashop
+
+## structure of directories
+
+```
+.
 ├── admin-dev
 │   ├── autoupgrade
 │   │   └── backup
@@ -2195,5 +2200,6 @@ prestashop
 │   └── sessions
 ├── vendor
 └── webservice
+```
 
 2196 directories
