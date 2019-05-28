@@ -1,4 +1,9 @@
-prestashop
+# prestashop
+
+## structure of directories and files
+
+```
+.
 ├── admin-dev
 │   ├── ajax.php
 │   ├── ajax_products_list.php
@@ -11961,5 +11966,6 @@ prestashop
 └── webservice
     ├── dispatcher.php
     └── index.php
+```
 
 2196 directories, 9766 files
