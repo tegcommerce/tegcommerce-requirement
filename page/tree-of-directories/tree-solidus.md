@@ -1,4 +1,9 @@
-solidus
+# solidus
+
+## structure of directories
+
+```
+.
 ├── api
 │   ├── app
 │   │   ├── controllers
@@ -577,5 +582,6 @@ solidus
     │   └── tasks
     └── spec
         └── lib
+```
 
 578 directories
