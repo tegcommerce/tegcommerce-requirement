@@ -1,4 +1,9 @@
-cezerin
+# cezerin
+
+## structure of directories
+
+```
+.
 ├── config
 ├── docs
 │   ├── api
@@ -227,5 +232,6 @@ cezerin
         │   └── products
         ├── containers
         └── lib
+```
 
 228 directories
