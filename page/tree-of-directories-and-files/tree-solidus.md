@@ -1,4 +1,9 @@
-solidus
+# solidus
+
+## structure of directories and files
+
+```
+.
 ├── api
 │   ├── app
 │   │   ├── controllers
@@ -2879,5 +2884,6 @@ solidus
 │       │   └── load_sample_spec.rb
 │       └── spec_helper.rb
 └── solidus.gemspec
+```
 
 578 directories, 2302 files
