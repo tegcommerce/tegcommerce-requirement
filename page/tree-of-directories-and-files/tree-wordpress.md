@@ -1,4 +1,9 @@
-wordpress
+# wordpress
+
+## structure of directories and files
+
+```
+.
 ├── index.php
 ├── license.txt
 ├── readme.html
@@ -2392,5 +2397,6 @@ wordpress
 ├── wp-signup.php
 ├── wp-trackback.php
 └── xmlrpc.php
+```
 
 226 directories, 2167 files
