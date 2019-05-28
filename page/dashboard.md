@@ -10,6 +10,7 @@
 - [payments](#payments)
 - [shipments](#shipments)
 - [users](#users)
+- [chat](#chat)
 
 ### storefront
 should access storefront
@@ -142,3 +143,6 @@ should access users
       * should add/change/delete product title
       * should add/change/delete product description
       * should add/change/delete product price
+
+### chat
+should access chat
