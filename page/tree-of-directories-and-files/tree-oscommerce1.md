@@ -1,4 +1,9 @@
-oscommerce1
+# oscommerce1
+
+## structure of directories and files
+
+```
+.
 ├── index.php
 ├── license.txt
 ├── osCommerce
@@ -2294,5 +2299,6 @@ oscommerce1
 │   └── upload
 │       └── index.html
 └── README
+```
 
 504 directories, 1791 files
