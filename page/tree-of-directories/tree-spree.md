@@ -1,4 +1,9 @@
-spree
+# spree
+
+## structure of directories
+
+```
+.
 ├── api
 │   ├── app
 │   │   ├── assets
@@ -553,5 +558,6 @@ spree
     │   └── tasks
     └── spec
         └── lib
+```
 
 554 directories
