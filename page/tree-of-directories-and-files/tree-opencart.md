@@ -1,4 +1,9 @@
-opencart
+# opencart
+
+## structure of directories and files
+
+```
+.
 ├── build.xml
 ├── CHANGELOG_AUTO.md
 ├── CHANGELOG.md
@@ -6006,5 +6011,6 @@ opencart
                             ├── WechatScript.php
                             ├── WechatService.php
                             └── WechatUser.php
+```
 
 765 directories, 5242 files
