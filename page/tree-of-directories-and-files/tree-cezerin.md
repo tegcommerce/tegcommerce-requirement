@@ -1,4 +1,7 @@
-cezerin
+## structure of directories and files
+
+```
+.
 ├── config
 │   ├── admin.js
 │   ├── admin.production.js
@@ -899,5 +902,6 @@ cezerin
 │           └── settings.js
 ├── webpack.config.admin.js
 └── webpack.config.store.js
+```
 
 228 directories, 672 files
