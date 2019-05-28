@@ -1,4 +1,9 @@
-oscommerce2
+# oscommerce2
+
+## structure of directories
+
+```
+.
 ├── catalog
 │   ├── admin
 │   │   ├── images
@@ -185,5 +190,6 @@ oscommerce2
 │               └── flags
 │                   └── 4x3
 └── docs
+```
 
 186 directories
