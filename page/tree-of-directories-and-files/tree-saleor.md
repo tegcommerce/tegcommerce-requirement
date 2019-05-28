@@ -1,4 +1,9 @@
-saleor
+# saleor
+
+## structure of directories and files
+
+```
+.
 ├── apollo.config.js
 ├── app.json
 ├── CHANGELOG.md
@@ -3394,5 +3399,6 @@ saleor
 ├── tslint.json
 ├── webpack.config.js
 └── webpack.d.ts
+```
 
 710 directories, 2685 files
