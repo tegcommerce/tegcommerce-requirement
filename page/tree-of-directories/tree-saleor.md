@@ -1,4 +1,9 @@
-saleor
+# saleor
+
+## structure of directories
+
+```
+.
 ├── deployment
 │   └── elasticbeanstalk
 ├── docs
@@ -709,5 +714,6 @@ saleor
     ├── cassettes
     ├── dashboard
     └── gateway
+```
 
 710 directories
