@@ -1,4 +1,9 @@
-wordpress
+# wordpress
+
+## structure of directories
+
+```
+.
 ├── wp-admin
 │   ├── css
 │   │   └── colors
@@ -225,5 +230,6 @@ wordpress
     │       └── Renderer
     ├── theme-compat
     └── widgets
+```
 
 226 directories
