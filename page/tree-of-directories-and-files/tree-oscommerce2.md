@@ -1,4 +1,9 @@
-oscommerce2
+# oscommerce2
+
+## structure of directories and files
+
+```
+.
 ├── catalog
 │   ├── account_edit.php
 │   ├── account_history_info.php
@@ -1461,5 +1466,6 @@ oscommerce2
 │   └── documentation.pdf
 ├── LICENSE.md
 └── README.md
+```
 
 186 directories, 1276 files
