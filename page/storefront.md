@@ -5,9 +5,10 @@
 * should see [product catalog](https://user-images.githubusercontent.com/42984807/58356366-abb72980-7e4d-11e9-8ac3-14537370fb1d.png)
   * should see product title
   * should see product price
-  * should see product comments
   * should see product likes
   * should see product shares
+  * should see product sales
+  * should see product comments
   
 * should search product
   * should select category
@@ -15,10 +16,12 @@
 * should see [product](https://user-images.githubusercontent.com/42984807/58356367-abb72980-7e4d-11e9-972c-c748b31cb90c.png)
   * should see product title
   * should see product description
+  * should see product category
   * should see product price
-  * should see product comments
   * should see product likes
   * should see product shares
+  * should see product sales
+  * should see product comments
  
 * should interact with the product
   * should share product
@@ -32,9 +35,10 @@
 * should see [product catalog](https://user-images.githubusercontent.com/42984807/58356366-abb72980-7e4d-11e9-8ac3-14537370fb1d.png)
   * should see product title
   * should see product price
-  * should see product comments
   * should see product likes
   * should see product shares
+  * should see product sales
+  * should see product comments
   
 * should search product
   * should select category
@@ -42,10 +46,12 @@
 * should see [product](https://user-images.githubusercontent.com/42984807/58356367-abb72980-7e4d-11e9-972c-c748b31cb90c.png)
   * should see product title
   * should see product description
+  * should see product category
   * should see product price
-  * should see product comments
   * should see product likes
   * should see product shares
+  * should see product sales
+  * should see product comments
 
 * should interact with the product
   * should add/change/delete product comments
@@ -67,9 +73,10 @@
 * should see [product catalog](https://user-images.githubusercontent.com/42984807/58356366-abb72980-7e4d-11e9-8ac3-14537370fb1d.png)
   * should see product title
   * should see product price
-  * should see product comments
   * should see product likes
   * should see product shares
+  * should see product sales
+  * should see product comments
   
 * should search product
   * should select category
@@ -77,10 +84,12 @@
 * should see [product](https://user-images.githubusercontent.com/42984807/58356367-abb72980-7e4d-11e9-972c-c748b31cb90c.png)
   * should see product title
   * should see product description
+  * should see product category
   * should see product price
-  * should see product comments
   * should see product likes
   * should see product shares
+  * should see product sales
+  * should see product comments
 
 * should add/delete product
   * should add/change/delete product title
