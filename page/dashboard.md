@@ -1,16 +1,14 @@
 ## dashboard
-- [storefront](#storefront)
-- [my account](#my-account)
-- [my store](#my-store)
-- [catalogs](#catalogs)
+- [store](#storefront)
 - [sales](#sales)
 - [pages](#pages)
+- [products](products)
+- [users](#users)
 - [themes](#themes)
 - [plugins](#plugins)
 - [payments](#payments)
 - [shipments](#shipments)
-- [users](#users)
-- [chat](#chat)
+- [settings](#chat)
 
 ### storefront
 should access storefront
