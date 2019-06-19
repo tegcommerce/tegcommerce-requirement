@@ -122,8 +122,6 @@ should acess my store
   * user must fill out
 * store logo
   * user should upload
-* where is your store based?
-  * user should select the alternative
 * store language
   * user should select the alternative
 * address
