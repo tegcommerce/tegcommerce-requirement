@@ -8,12 +8,12 @@
 .
 ├── header                    
 │   └── search                
-│       └── category                     
+│       └── tag                     
 │
 ├── body                      
-│   └── catalog   
-│       └── product               
-│           └── share             
+│   └── product   
+│       └── share               
+│            
 │                     
 └── footer                    
     ├── privacy policy          
@@ -26,17 +26,16 @@
 .
 ├── header                    
 │   ├── search                
-│   │   └── category                     
+│   │   └── tag                     
 │   └── cart
 │       └── product
 │
 ├── body                      
-│   └── catalog   
-│       └── product               
-│           ├── share
-│           ├── like
-│           ├── comment
-│           └── buy
+│   └── product   
+│       ├── share
+│       ├── like
+│       ├── comment
+│       └── buy
 │                     
 └── footer                    
     ├── privacy policy          
@@ -49,18 +48,18 @@
 .
 ├── header                    
 │   ├── sidebar                
-│   │   ├── storefront section
-│   │   ├── configuration section
-│   │   ├── catalog section
-│   │   ├── page section
-│   │   ├── plugin section
-│   │   ├── theme section
-│   │   ├── payment section
-│   │   ├── shipment section
-│   │   └── user section
+│   │   ├── store
+│   │   ├── sales
+│   │   ├── pages
+│   │   ├── products
+│   │   ├── users
+│   │   ├── themes
+│   │   ├── plugins
+│   │   ├── payment
+│   │   └── shipment
 │   │
 │   ├── search                
-│   │   └── category                     
+│   │   └── tag                     
 │   └── cart
 │       └── product
 │
