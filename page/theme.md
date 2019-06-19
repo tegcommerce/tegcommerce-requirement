@@ -63,12 +63,11 @@
 │   └── cart
 │       └── product
 │
-├── body                      
-│   └── catalog   
-│       └── product               
-│           ├── share
-│           ├── like
-│           └── comment
+├── body                         
+│   └── product               
+│       ├── share
+│       ├── like
+│       └── comment
 │
 └── footer                    
     ├── privacy policy          
