@@ -13,7 +13,6 @@
 
 * framework
   * nodejs
-    * expressjs
 
 #### frontend or client-side
 
