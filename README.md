@@ -27,23 +27,11 @@
   * state
   * postcode/zip
   * currency for payment
-  * payment method
-  * shipping company
-
-* product catalog
-  * title
-  * price
-  * comment
-  * like
-  * share
-
+  
 * product
   * title
   * description
   * price
-  * comment
-  * like
-  * share
 
 ### functional
 
