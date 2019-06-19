@@ -110,7 +110,7 @@ should acess my account
     * user should upload
   * admin email
     * user must fill out
-  * admin user
+  * admin username
     * user must fill out
   * admin password
     * user must fill out
