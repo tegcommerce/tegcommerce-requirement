@@ -14,7 +14,7 @@
   - [store profile](#store-profile)
   - [product objective](#product-objective)
 
-### primary user profile
+#### primary user profile
 
 - nationality
   - any
@@ -39,9 +39,9 @@
 - admin password
   - any
 
-### primary user objective
+#### primary user objective
 
-### primary user guide 
+#### primary user guide 
 
 - free
 - commercial
@@ -79,7 +79,7 @@
 - incorporable
 - automated
 
-### secondary user profile
+#### secondary user profile
 
 - nationality
   - brazil
@@ -88,13 +88,13 @@
 - last name
   - almeida
 - profile picture
-  - undefined
+  - fab.png
 - gender
   - male
 - age
   - 29
 - biography/description
-  - undefined
+  - salesman
 - telephone
   - 85 9 9934 1242
 - admin email
@@ -104,11 +104,11 @@
 - admin password
   - 21210391
 
-### secondary user objective
+#### secondary user objective
 
-### secondary user guide 
+#### secondary user guide 
 
-### store profile
+#### store profile
 
 - store name
   - any
@@ -135,20 +135,4 @@
 - shipping company
   - any
 
-### specific user 
-
-- store owner
-
-- store seller
-
-- store reseller
-
-- reseller hosting
-
-- store manager
-
-- hosting manager
-
-- store builder
-
-- store maintainer
+#### product objective
