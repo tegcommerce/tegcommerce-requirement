@@ -1,18 +1,20 @@
-## persona
+# persona
 
-### user
+## user
 
-- primary user
-  - [primary user profile](#primary-user-profile)
-  - [primary user objective](#primary-user-objective)
-  - [primary user guide](#primary-user-guide)
+### primary user
 
-- secondary user
-  - [secondary user profile](#secondary-user-profile)
-  - [secondary user objective](#secondary-user-objective)
-  - [secondary user guide](#secondary-user-guide)
+- [primary user profile](#primary-user-profile)
+- [primary user objective](#primary-user-objective)
+- [primary user guide](#primary-user-guide)
+
+### secondary user
+
+- [secondary user profile](#secondary-user-profile)
+- [secondary user objective](#secondary-user-objective)
+- [secondary user guide](#secondary-user-guide)
   
-### product
+## product
 
 - [store profile](#store-profile)
 - [product objective](#product-objective)
