@@ -1,9 +1,9 @@
 ## persona
 
-- primary user
-  - [primary user profile](#primary-user-profile)
-  - [primary user objective](#primary-user-objective)
-  - [primary user guide](#primary-user-guide)
+### primary user
+- [primary user profile](#primary-user-profile)
+- [primary user objective](#primary-user-objective)
+- [primary user guide](#primary-user-guide)
 
 - secondary user
   - [secondary user profile](#secondary-user-profile)
