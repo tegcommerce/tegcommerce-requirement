@@ -8,7 +8,7 @@
 - [plugins](#plugins)
 - [payments](#payments)
 - [shipments](#shipments)
-- [settings](#chat)
+- [settings](#settings)
 
 ### store
 should access storefront
