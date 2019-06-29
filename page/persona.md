@@ -2,17 +2,17 @@
 
 - primary user
   - [primary user profile](#primary-user-profile)
-  - [primary user objective] (#primary-user-objective)
-  - [primary user guide] (#primary-user-guide)
+  - [primary user objective](#primary-user-objective)
+  - [primary user guide](#primary-user-guide)
 
 - secondary user
   - [secondary user profile](#secondary-user-profile)
-  - [secondary user objective] (#secondary-user-objective)
-  - [secondary user guide] (#secondary-user-guide)
+  - [secondary user objective](#secondary-user-objective)
+  - [secondary user guide](#secondary-user-guide)
   
 - store
   - [store profile](#store-profile)
-  - [product objective] (#product-objective)
+  - [product objective](#product-objective)
 
 ### primary user profile
 
