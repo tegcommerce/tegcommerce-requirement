@@ -10,7 +10,7 @@
 - [secondary user objective](#secondary-user-objective)
 - [secondary user guide](#secondary-user-guide)
   
-### store
+### product
 - [store profile](#store-profile)
 - [product objective](#product-objective)
 
