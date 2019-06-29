@@ -1,38 +1,5 @@
 # tegcommerce requirement 🧠
 
-### data
-
-* user
-  * first name
-  * last name
-  * username
-  * email
-  * password
-
-* admin user
-  * nationality
-  * first name
-  * last name
-  * profile picture
-  * admin username
-  * admin email
-  * admin password
-
-* store
-  * store name
-  * store logo
-  * store language
-  * address
-  * city
-  * state
-  * postcode/zip
-  * currency for payment
-  
-* product
-  * title
-  * description
-  * price
-
 ### functional
 
 * [dashboard](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/dashboard.md)
@@ -52,6 +19,9 @@
     * entity relationship diagram
     
 ### non-functional
+* [data](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/data.md)
+
+* [persona](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/persona.md)
 
 * [usability, experience and efficiency](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/usability-experience-efficiency.md)
   
