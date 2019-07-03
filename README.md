@@ -32,15 +32,17 @@
 * [security](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/security.md)
 
 * [side](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/side.md)
+  * backend or server-side
+  * frontend or client-side
 
+* [design](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/design.md)
+  * [text](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/text.md)
+  * [color](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/color.md)
+  
 * [theme](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/theme.md)
 
 * [plugin](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/plugin.md)
-  
-* [color](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/color.md)
 
 * [language](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/language.md)
-
-* [text](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/text.md)
 
 * [legal](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/legal.md)
