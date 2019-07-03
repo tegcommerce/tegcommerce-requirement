@@ -32,8 +32,8 @@
 * [security](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/security.md)
 
 * [side](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/side.md)
-  * backend or server-side
-  * frontend or client-side
+  * [backend or server-side](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/side.md)
+  * [frontend or client-side](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/side.md)
 
 * [design](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/design.md)
   * [text](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/text.md)
