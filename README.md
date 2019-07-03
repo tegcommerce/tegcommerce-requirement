@@ -25,6 +25,8 @@
 
 * [persona](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/persona.md)
 
+* [scope](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/scope.md)
+
 * [usability, experience and efficiency](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/usability-experience-efficiency.md)
   
 * [security](https://github.com/tegcommerce/tegcommerce-requirement/blob/master/page/security.md)
