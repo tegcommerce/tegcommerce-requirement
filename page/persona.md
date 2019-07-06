@@ -115,7 +115,7 @@
 
 #### store profile
 
-- store name
+- store name: Heva Lingerie
   - any
 - store logo
   - any
